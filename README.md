@@ -33,3 +33,13 @@ The objective of this project is to conduct a comprehensive assessment of web ap
 
 7. Documentation and Reporting:
    - Document the findings, analysis, and remediation recommendations in a comprehensive report format suitable for stakeholders, developers, and security teams. Include detailed information about identified vulnerabilities, SSL/TLS issues, their potential impact, and recommended remediation steps. Save the scan results as text (txt) and comma-separated values (csv) files for future reference and analysis.
+  
+View the screenshot images below for a visual walkthrough of the project steps.
+
+![Screenshot_2024-04-09_15-55-28](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/b919a4e5-c4e2-4394-ac17-701f2aa6c5c7)
+![Screenshot_2024-04-09_15-55-53](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/d177df7e-5da4-45db-b946-1ecec649fe1b)
+![Screenshot_2024-04-09_15-56-29](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/5e93b264-c1f2-4d51-be04-39c591a5a0e0)
+![Screenshot_2024-04-09_15-57-00](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/6897b1e0-199d-4739-9c14-d3c0c6ac8edd)
+![Screenshot_2024-04-09_16-18-32](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/d43b63eb-fae9-4738-b894-3612b3dc73ec)
+![Screenshot_2024-04-09_16-19-18](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/dd355c79-2b1f-48fd-be46-09dcb5e60248)
+![Screenshot_2024-04-09_16-20-36](https://github.com/steventelfer/Web-Security-Assessment-Nikto-SSL-Scan/assets/145903293/954bd8f3-7fff-4a4a-b793-81e4a2b1d27a)
